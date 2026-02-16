@@ -1,0 +1,41 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+
