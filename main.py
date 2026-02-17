@@ -1,5 +1,5 @@
 def main():
-    print("Hello from mcp-data-series!")
+    print("Hello!")
 
 
 if __name__ == "__main__":
